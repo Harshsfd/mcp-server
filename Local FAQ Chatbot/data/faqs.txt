@@ -1,0 +1,5 @@
+Q: What is MCP?
+A: MCP is a Multi-Channel Platform that helps connect multiple sources.
+Q: How to use MCP?
+A: You can run the server and ask questions from your data files.
+  
